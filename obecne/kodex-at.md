@@ -9,7 +9,7 @@ icon: shield
 # Kodex AT
 
 {% hint style="info" %}
-&#x20;**Důležité:** Člen A-Týmu reprezentuje projekt Roemc.cz. Porušení tohoto kodexu může vést k okamžitému odebrání práv, degradaci nebo trvalému vyhození z týmu.
+**Důležité:** Člen A-Týmu reprezentuje projekt Roemc.cz. Porušení tohoto kodexu může vést k okamžitému odebrání práv, degradaci nebo trvalému vyhození z týmu.
 {% endhint %}
 
 {% stepper %}
@@ -20,7 +20,7 @@ Práva udělená v A-Týmu slouží výhradně ke správě serveru a pomoci hrá
 
 #### 1.1. Zákaz zvýhodňování (Abuse):
 
-* &#x20;Je přísně zakázáno používat příkazy, gamemode (Creative/Spectator), teleportaci (`/tp`), dávat předměty (`/give`) nebo jakékoliv jiné pravomoci pro vlastní potřebu nebo pro potřebu svých přátel/frakce.
+* Je přísně zakázáno používat příkazy, gamemode (Creative/Spectator), teleportaci (`/tp`), dávat předměty (`/give`) nebo jakékoliv jiné pravomoci pro vlastní potřebu nebo pro potřebu svých přátel/frakce.
 
 #### 1.2. Neutralita a objektivita:
 
@@ -28,7 +28,7 @@ Práva udělená v A-Týmu slouží výhradně ke správě serveru a pomoci hrá
 
 #### 1.3. Vynášení interních informací:
 
-* Všechny informace z interních kanálů (Discord A-Týmu, poradna, plánované eventy, důkazy v ticketové sekci) jsou přísně důvěrné. Jejich šíření mimo A-Tým je trestáno.&#x20;
+* Všechny informace z interních kanálů (Discord A-Týmu, poradna, plánované eventy, důkazy v ticketové sekci) jsou přísně důvěrné. Jejich šíření mimo A-Tým je trestáno.
 {% endstep %}
 
 {% step %}
@@ -56,7 +56,7 @@ Udělování trestů musí být spravedlivé, odůvodněné a zpětně dohledate
 
 #### 3.1. Povinnost mít důkazy
 
-* Před udělením banu (zejména za cheatování, griefing nebo duplikování) je člen A-Týmu povinen pořídit jasný důkazový materiál (videozáznam, screenshoty, logy). Bez důkazu nesmí být udělena žádná trvalá sankce.&#x20;
+* Před udělením banu (zejména za cheatování, griefing nebo duplikování) je člen A-Týmu povinen pořídit jasný důkazový materiál (videozáznam, screenshoty, logy). Bez důkazu nesmí být udělena žádná trvalá sankce.
 
 #### 3.2. Přiměřenost trestu
 
@@ -64,12 +64,8 @@ Udělování trestů musí být spravedlivé, odůvodněné a zpětně dohledate
 
 #### 3.3. Řádné odůvodnění
 
-* Při udělění banu, mute nebo kicku musí být uveden jasný a konkrétní důvod.&#x20;
-* Každá člen AT má povinnost oznámit ban a mute přesahující 10 minut zprávou do **Internalu** nebo přeposláním zprávy z kanálu **monitoring.**&#x20;
-
-
-
-
+* Při udělění banu, mute nebo kicku musí být uveden jasný a konkrétní důvod.
+* Každá člen AT má povinnost oznámit ban a mute přesahující 10 minut zprávou do **Internalu** nebo přeposláním zprávy z kanálu **monitoring.**
 {% endstep %}
 
 {% step %}
@@ -99,13 +95,13 @@ Tento kodex je platný od momentu zveřejnění na docs.roemc.cz. Vedení server
 {% endstep %}
 {% endstepper %}
 
-| Funkce | Obecný popis |
-|---|---|
-| **OP** | Nejvyšší technická a organizační pozice serveru. Stará se o celkový provoz, infrastrukturu a důležité systémy. Má plný přístup k serveru a zodpovídá za jeho bezproblémový chod. |
-| **MOD, MODj** | Zkušený člen administrátorského týmu s vyššími pravomocemi. Dohlíží na svěřenou část serveru, pomáhá s řešením závažnějších problémů a podle potřeby pracuje také s konzolí. |
-| **GM, GMj** | Člen hlavního ingame AT, který dohlíží na hráče a dodržování pravidel. Řeší problémy hráčů, pomáhá odhalovat chyby a aktivně se podílí na zlepšování a fungování serveru. |
-| **Helper** | První pomoc pro hráče na serveru. Odpovídá na jejich otázky, pomáhá s běžnými problémy, stará se o základní správu regionů a sleduje dění na serveru. |
-| **Sekretariát** | Člen týmu, který se stará o administrativní záležitosti, komunikaci s hráči a vedení interních záznamů. Pomáhá s organizací a koordinací práce A-Týmu. (Kitty se flák) | 
-| **Developer** | Specialista na technickou část serveru. Zabývá se konfigurací systémů, nastavováním pluginů, jejich úpravami a případně vývojem vlastních řešení. |
-| **Builder** | Člen týmu zaměřený na stavbu a úpravu herního prostředí. Pomáhá vytvářet mapy, stavby a další projekty, které se následně využívají na serveru. |
-| **Trainee, Trainee developer, Trainee builder** | Nový člen týmu, který se nachází ve zkušební době a učí se svou budoucí práci. Po prokázání schopností, spolehlivosti a samostatnosti může postoupit na příslušnou plnohodnotnou pozici. |
+| Funkce                                                                             | Obecný popis                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:cyan;">**OP**</mark>                                            | Nejvyšší technická a organizační pozice serveru. Stará se o celkový provoz, infrastrukturu a důležité systémy. Má plný přístup k serveru a zodpovídá za jeho bezproblémový chod.         |
+| <mark style="color:$primary;">**MOD, MODj**</mark>                                 | Zkušený člen administrátorského týmu s vyššími pravomocemi. Dohlíží na svěřenou část serveru, pomáhá s řešením závažnějších problémů a podle potřeby pracuje také s konzolí.             |
+| <mark style="color:$danger;">**GM, GMj**</mark>                                    | Člen hlavního ingame AT, který dohlíží na hráče a dodržování pravidel. Řeší problémy hráčů, pomáhá odhalovat chyby a aktivně se podílí na zlepšování a fungování serveru.                |
+| <mark style="color:$success;">**Helper**</mark>                                    | První pomoc pro hráče na serveru. Odpovídá na jejich otázky, pomáhá s běžnými problémy, stará se o základní správu regionů a sleduje dění na serveru.                                    |
+| <mark style="color:violet;">**Sekretariát**</mark>                                 | Člen týmu, který se stará o administrativní záležitosti, komunikaci s hráči a vedení interních záznamů. Pomáhá s organizací a koordinací práce A-Týmu. (Kitty se fláká)                  |
+| <mark style="color:purple;">**Developer**</mark>                                   | Specialista na technickou část serveru. Zabývá se konfigurací systémů, nastavováním pluginů, jejich úpravami a případně vývojem vlastních řešení.                                        |
+| <mark style="color:orange;">**Builder**</mark>                                     | Člen týmu zaměřený na stavbu a úpravu herního prostředí. Pomáhá vytvářet mapy, stavby a další projekty, které se následně využívají na serveru.                                          |
+| <mark style="color:yellow;">**Trainee, Trainee developer, Trainee builder**</mark> | Nový člen týmu, který se nachází ve zkušební době a učí se svou budoucí práci. Po prokázání schopností, spolehlivosti a samostatnosti může postoupit na příslušnou plnohodnotnou pozici. |
