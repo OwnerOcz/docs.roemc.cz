@@ -109,6 +109,8 @@ Udržuj chat přehledný a čitelný pro ostatní.
 * Spam: Je zakázáno psát stejné nebo podobné zprávy opakovaně za sebou, psát samá velká písmena (CAPS LOCK), nadměrně používat emotikony nebo posílat nesmyslné řetězce znaků.
 * Reklama: Je přísně zakázána jakákoliv propagace jiných Minecraft serverů, webových stránek, YouTube/Twitch kanálů (pokud nemáš oficiální streamer národ) nebo komerčních produktů.
 
-
+{% hint style="info" %}
+Tyto pravidla jsou platná od momentu zveřejnění na docs.roemc.cz. Vedení serveru si vyhrazuje právo na průběžnou aktualizaci pravidel.&#x20;
+{% endhint %}
 {% endstep %}
 {% endstepper %}
