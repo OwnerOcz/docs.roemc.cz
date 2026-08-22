@@ -5,3 +5,4 @@
 ## Obecné
 
 * [Pravidla](obecne/pravidla.md)
+* [Kodex AT](obecne/kodex-at.md)

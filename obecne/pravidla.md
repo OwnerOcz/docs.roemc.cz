@@ -111,8 +111,4 @@ Udržuj chat přehledný a čitelný pro ostatní.
 
 
 {% endstep %}
-
-{% step %}
-
-{% endstep %}
 {% endstepper %}
