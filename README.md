@@ -4,7 +4,7 @@
 
 
 
-**ROEMC.cz (Reaml of Everlasting)** je český Minecraft **SMP server**, který staví především na komunitě, společném hraní a svobodě hráčů.
+**ROEMC.cz (Realm of Everlasting)** je český Minecraft **SMP server**, který staví především na komunitě, společném hraní a svobodě hráčů.
 
 Na serveru najdeš klasický survival svět, ve kterém můžeš stavět, objevovat, obchodovat, tvořit vlastní projekty a společně s ostatními hráči vytvářet svět, který se bude postupně rozvíjet.
 
