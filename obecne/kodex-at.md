@@ -105,7 +105,7 @@ Tento kodex je platný od momentu zveřejnění na docs.roemc.cz. Vedení server
 | **MOD, MODj** | Zkušený člen administrátorského týmu s vyššími pravomocemi. Dohlíží na svěřenou část serveru, pomáhá s řešením závažnějších problémů a podle potřeby pracuje také s konzolí. |
 | **GM, GMj** | Člen hlavního ingame AT, který dohlíží na hráče a dodržování pravidel. Řeší problémy hráčů, pomáhá odhalovat chyby a aktivně se podílí na zlepšování a fungování serveru. |
 | **Helper** | První pomoc pro hráče na serveru. Odpovídá na jejich otázky, pomáhá s běžnými problémy, stará se o základní správu regionů a sleduje dění na serveru. |
-| **Sekretariát** | Člen týmu, který se stará o administrativní záležitosti, komunikaci s hráči a vedení interních záznamů. Pomáhá s organizací a koordinací práce A-Týmu. (Kitty se fláká | )
+| **Sekretariát** | Člen týmu, který se stará o administrativní záležitosti, komunikaci s hráči a vedení interních záznamů. Pomáhá s organizací a koordinací práce A-Týmu. (Kitty se flák) | 
 | **Developer** | Specialista na technickou část serveru. Zabývá se konfigurací systémů, nastavováním pluginů, jejich úpravami a případně vývojem vlastních řešení. |
 | **Builder** | Člen týmu zaměřený na stavbu a úpravu herního prostředí. Pomáhá vytvářet mapy, stavby a další projekty, které se následně využívají na serveru. |
 | **Trainee, Trainee developer, Trainee builder** | Nový člen týmu, který se nachází ve zkušební době a učí se svou budoucí práci. Po prokázání schopností, spolehlivosti a samostatnosti může postoupit na příslušnou plnohodnotnou pozici. |
