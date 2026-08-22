@@ -19,6 +19,11 @@ Naším cílem je vytvořit příjemné SMP, kde má každý hráč prostor hrá
 Připojíš se z verze **1.21.11**
 {% endhint %}
 
+### První přihlášení a registrace
+
+* **První připojení (Registrace):** Napiš do chatu příkaz `/register heslo heslo_znovu` (místo slova heslo zvol své vlastní bezpečné heslo)
+* **Každé další připojení:** Server tě může za určitých okolností vyzvat k přihlášení, to provedeš příkazem `/login tvoje_heslo`.
+
 ## Co na serveru najdeš?&#x20;
 
 * &#x20;Survival SMP
@@ -30,6 +35,8 @@ Připojíš se z verze **1.21.11**
 * &#x20;Eventy a komunitní akce
 * &#x20;Prostor pro vlastní projekty
 * Pyrofarming a spoustu dalších pluginů&#x20;
+
+
 
 
 
