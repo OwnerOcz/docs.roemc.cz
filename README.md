@@ -23,7 +23,7 @@ Připojíš se z verze **1.21.11**
 
 * &#x20;Survival SMP
 * &#x20;Velký otevřený svět
-* ⚔ PvE a PvP
+* &#x20;PvE a PvP
 * &#x20;Ekonomiku a obchodování
 * &#x20;Achievementy a další výzvy
 * &#x20;Aktivní komunitu
