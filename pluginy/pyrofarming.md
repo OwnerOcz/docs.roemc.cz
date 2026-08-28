@@ -208,4 +208,4 @@ Pomocí něj můžeš vyrábět například:
 
 ## Teď si připraven stát se farmářem 
 * Pokud ti něco neni jasné či v něčem plaveš, napiš nám na Discord a my ti rádi pomůžeme.
-* **Pamatuj**: Sklízej keře, čti info o semínkách a pečuj o svoje growstationy.
+* **Pamatuj**: Sklízej keře, čti info o semínkách a pečuj o svoje growstationy
