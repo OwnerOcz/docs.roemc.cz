@@ -34,7 +34,8 @@ Připojíš se z verze **1.21.11**
 * &#x20;Aktivní komunitu
 * &#x20;Eventy a komunitní akce
 * &#x20;Prostor pro vlastní projekty
-* Pyrofarming a spoustu dalších pluginů&#x20;
+* Pyrofarming a spoustu dalších pluginů&#x20;* 
+
 
 
 
